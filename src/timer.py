@@ -26,4 +26,4 @@ while t:
     t -= 1
 print('¡Hora de trabajar!')
 
-#Modificado en Visual Studio Code
+#Modificado en Visual Studio Code por segunda vez
