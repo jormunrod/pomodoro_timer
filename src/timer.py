@@ -25,3 +25,5 @@ while t:
     time.sleep(1)
     t -= 1
 print('¡Hora de trabajar!')
+
+#Modificado en Visual Studio Code
